@@ -22,7 +22,7 @@ This project sets up a Node.js server to receive TikTok live stream events such 
 1. Update the username in the `server.js` file with the TikTok username of someone who is currently live:
 
     ```javascript
-    let tiktokUsername = "officialgeilegisela";
+    let tiktokUsername = "NameHere";
     ```
 
 2. Run the server:
